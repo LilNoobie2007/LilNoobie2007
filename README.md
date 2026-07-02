@@ -55,7 +55,6 @@ Base activity tracking over rolling development cycles:
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:tech.amaanitvam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/LilNoobie2007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&weight=bold&logoColor=white" alt="GitHub" /></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrtWzTPVRWTPRqlftWMPNfNNzGpwkzFnCWTTXwRXMdlsgXqJPVkrXShkhjmhZHRJMrkCg"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
