@@ -45,11 +45,6 @@ Backend Developer & Junior Cybersecurity Enthusiast focused on building secure R
 Base activity tracking over rolling development cycles:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LilNoobie2007&theme=react-dark&bg_color=0d1117&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LilNoobie2007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin's Core Git Metrics" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilNoobie2007&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Engineering Ecosystem Languages" height="150" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
