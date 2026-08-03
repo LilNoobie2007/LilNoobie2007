@@ -8,7 +8,6 @@ Backend Developer & Junior Cybersecurity Enthusiast focused on building secure R
 - 🔭 I’m currently optimization-hardening backend modules, structuring query projections, and securing middleware routers.
 - 🛠️ I’m currently experimenting with automated infrastructure maps and network packet tracking inside **Cisco Packet Tracer**.
 - 💬 Ask me about **Java OOP architecture & Collections**, server memory bottlenecks, or fundamental routing.
-- ⚡ Fun fact: I design custom environments, mountain generation, and automated building scripts inside **Minecraft** worlds to test logic flows.
 
 ---
 
