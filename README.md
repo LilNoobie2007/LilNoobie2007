@@ -44,11 +44,6 @@ Backend Developer & Junior Cybersecurity Enthusiast focused on building secure R
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilNoobie2007&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </p>
 
-<!-- Language Breakdown Chart -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilNoobie2007&layout=compact&theme=radical&hide_border=true&langs_count=5&bg_color=0d1117" alt="Top Languages" />
-</p>
-
 ### 📈 Contribution Velocity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LilNoobie2007&theme=react-dark&bg_color=0d1117&hide_border=true)
 
